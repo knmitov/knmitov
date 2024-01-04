@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there, I'm Kiril 👋
 
-<!--
-**knmitov/knmitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a seasoned Full Stack Developer with over 10 years of experience, specializing in technologies like Symfony, Laravel, Vue, Nuxt, Docker, Tailwind, and more. Currently, I'm embracing the dynamic world of freelancing and am open to exciting new opportunities.
 
-Here are some ideas to get you started:
+👨‍💻 I love building things that live on the internet, whether that be websites, applications, or anything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Backend**: Symfony, Laravel
+- **Frontend**: Vue, Nuxt
+- **Styling**: Tailwind CSS
+- **Containerization**: Docker, Docker Swarm
+- **Version Control**: Github, GitLab
+- ... and more!
+
+### 🌱 I’m currently learning ...
+- API integration with OpenAI and Langchain (js)
+- React and Next
+
+### 💼 Open for Work
+I'm currently open to freelance opportunities that challenge me and utilize my decade of development experience. Whether you need a complex web application or a simple yet elegant website, I'm your go-to developer.
+
+### 📫 How to reach me:
+- Email: knmitov@gmail.com
+
+---
+
+Feel free to to reach out if you think I can be of help in your project!
