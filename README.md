@@ -20,9 +20,6 @@ I'm a seasoned Full Stack Developer with over 10 years of experience, specializi
 ### 💼 Open for Work
 I'm currently open to freelance opportunities that challenge me and utilize my decade of development experience. Whether you need a complex web application or a simple yet elegant website, I'm your go-to developer.
 
-### 📫 How to reach me:
-- Email: knmitov@gmail.com
-
 ---
 
-Feel free to to reach out if you think I can be of help in your project!
+Feel free to [reach out](mailto:knmitov@gmail.com) if you think I can be of help in your project!
