@@ -1,12 +1,12 @@
 ## Hi there, I'm Kiril 👋
 
 ### 🚀 About Me
-I'm a seasoned Full Stack Developer with over 10 years of experience, specializing in technologies like Symfony, Laravel, Vue, Nuxt, Docker, Tailwind, and more. Currently, I'm embracing the dynamic world of freelancing and am open to exciting new opportunities.
+I'm a seasoned Full Stack Developer with over 8 years of experience, specializing in technologies like Symfony, Vue, Nuxt, Docker, Tailwind, and more. Currently, I'm embracing the dynamic world of freelancing and am open to exciting new opportunities.
 
 👨‍💻 I love building things that live on the internet, whether that be websites, applications, or anything in between.
 
 ### 🛠 Skills
-- **Backend**: Symfony, Laravel
+- **Backend**: Symfony
 - **Frontend**: Vue, Nuxt
 - **Styling**: Tailwind CSS
 - **Containerization**: Docker, Docker Swarm
